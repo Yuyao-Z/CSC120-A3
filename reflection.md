@@ -3,7 +3,7 @@ Use this file to record your reflection on this assignment.
 - Which classmates did you consult with while working on this assignment?
    Tillie
 - Which session(s) of TA / office hours did you attend?
-I went to TA hours in Thursday night. 
+I went to TA hours in Thursday  night. 
 - What are your initial impressions of Java? 
 My initial impression of Java is that it is very organized and detailed. 
 - Can you draw any conclusion about programming in general from the similarities or the differences between the two languages? 

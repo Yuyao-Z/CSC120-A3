@@ -8,7 +8,7 @@ class Conversation {
     Scanner sc = new Scanner(System.in);
     List<String> conversation = new ArrayList();
     System.out.println("Please enter how many rounds you want the conversation to go:");
-    System.out.println("Hi, how are you doing today");
+    System.out.println("Hi, how are you doing today?");
     int numRounds = sc.nextInt();
     System.out.println("Please enter the start of the conversation:");
     for (int i = 0; i - 1 < numRounds; i++) {
